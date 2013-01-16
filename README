@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4399
+
+This is a light color scheme that looks as though it's been through the wash a few too many times. 
+
+The background isn't quite white and the colors aren't full color. Fairly good contrast and easy on the eyes.
+
+NOTE:
+I have not adjusted the terminal colors from my "faded-black" color scheme (vimscript#4398).
+
